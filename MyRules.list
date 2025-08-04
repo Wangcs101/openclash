@@ -1,6 +1,5 @@
 # 域名关键字匹配
-# DOMAIN-KEYWORD,anthropic
-# DOMAIN-KEYWORD,Claude
+DOMAIN-KEYWORD,libretv
 
-DOMAIN-SUFFIX,anthropic.com
-DOMAIN-SUFFIX,claude.ai
+# 域名名称匹配
+# DOMAIN-SUFFIX,xxx.com
