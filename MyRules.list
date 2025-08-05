@@ -3,6 +3,31 @@ DOMAIN-KEYWORD,libretv
 
 # 域名后缀匹配
 # DOMAIN-SUFFIX,xxx.com
+DOMAIN-SUFFIX,cloudflare-dns.com
+DOMAIN-SUFFIX,cloudflare-ech.com
+DOMAIN-SUFFIX,cloudflare-esni.com
+DOMAIN-SUFFIX,cloudflare-gateway.com
+DOMAIN-SUFFIX,cloudflare-quic.com
+DOMAIN-SUFFIX,cloudflare.net
+DOMAIN-SUFFIX,cloudflare.tv
+DOMAIN-SUFFIX,cloudflareaccess.com
+DOMAIN-SUFFIX,cloudflareapps.com
+DOMAIN-SUFFIX,cloudflarebolt.com
+DOMAIN-SUFFIX,cloudflareclient.com
+DOMAIN-SUFFIX,cloudflareinsights.com
+DOMAIN-SUFFIX,cloudflareok.com
+DOMAIN-SUFFIX,cloudflarepartners.com
+DOMAIN-SUFFIX,cloudflareportal.com
+DOMAIN-SUFFIX,cloudflarepreview.com
+DOMAIN-SUFFIX,cloudflareresolve.com
+DOMAIN-SUFFIX,cloudflaressl.com
+DOMAIN-SUFFIX,cloudflarestatus.com
+DOMAIN-SUFFIX,cloudflarestorage.com
+DOMAIN-SUFFIX,cloudflarestream.com
+DOMAIN-SUFFIX,cloudflaretest.com
+DOMAIN-SUFFIX,cloudflarewarp.com
+DOMAIN-SUFFIX,cloudfront.com
+DOMAIN-SUFFIX,pages.dev
 
 # IP地址过滤匹配
 # IP-CIDR,xxx.xxx.xx.xx/24,no-resolve
