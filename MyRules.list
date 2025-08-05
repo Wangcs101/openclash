@@ -3,3 +3,6 @@ DOMAIN-KEYWORD,libretv
 
 # 域名后缀匹配
 # DOMAIN-SUFFIX,xxx.com
+
+# IP地址过滤匹配
+# IP-CIDR,xxx.xxx.xx.xx/24,no-resolve
