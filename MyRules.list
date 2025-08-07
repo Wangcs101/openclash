@@ -6,7 +6,6 @@ DOMAIN-KEYWORD,easytier
 # 域名后缀匹配
 # DOMAIN-SUFFIX,xxx.com
 DOMAIN-SUFFIX,easytier.top
-DOMAIN-SUFFIX,synocommunity.com
 DOMAIN-SUFFIX,cloudflare-dns.com
 DOMAIN-SUFFIX,cloudflare-ech.com
 DOMAIN-SUFFIX,cloudflare-esni.com
